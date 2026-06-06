@@ -15,6 +15,8 @@ WAD List:
 - fcff-uwide.wad | Finely Crafted Fetish Film
 - hr2-uwide.wad | Hell Revealed II
 - mskxl-uwide.wad | Maskim Xul
+- pw-uwide.wad | Pandora's Wrath
 - sl-swtw-uwide.wad | Sunlust / Swim With The Whales
 - tn-uwide.wad | Tangerine Nightmare
 - vg-uwide.wad | Vanguard
+- vvw-uwide.wad | Vehement: Violent Weapons
