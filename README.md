@@ -11,6 +11,7 @@ Credit to:
 WAD List:
 - dbp##-uwide.wad | Doomer Boards Projects
 - puss##-uwide.wad | Pineapple Under the Sea
+- mayhem##-uwide.wad | MAYhem
 - eviternity-uwide.wad | Eviternity
 - fcff-uwide.wad | Finely Crafted Fetish Film
 - hr2-uwide.wad | Hell Revealed II
