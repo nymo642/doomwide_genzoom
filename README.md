@@ -9,6 +9,7 @@ Credit to:
 - Foxface
 
 WAD List:
+- ccss##-uwide.wad | Crispy Chicken Speedmap Session
 - dbp##-uwide.wad | Doomer Boards Projects
 - puss##-uwide.wad | Pineapple Under the Sea
 - mayhem##-uwide.wad | MAYhem
